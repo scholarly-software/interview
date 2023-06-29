@@ -1,24 +1,12 @@
-# README
+# Interview
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is the boilerplate we ask candidates to check out as part of the interview process. This is a Rails project running Rails 7 and Ruby 3.2. 
 
-Things you may want to cover:
+Before your interview starts, we recommend forking this repo and making sure that the following commands work:
 
-* Ruby version
+```
+bundle install
+bin/rails s
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Interested in a role at Scholarly? Email <a href="mailto:careers@scholarlysoftware.com">careers@scholarlysoftware.com</a>
